@@ -30,24 +30,24 @@ import { MinusSmallIcon, PlusSmallIcon } from '@heroicons/vue/24/outline'
 
 const faqs = [
   {
-    question: "What channels does Herobot support?",
-    answer: "Herobot supports multiple messaging channels including WhatsApp, WhatsApp Business, Instagram, Facebook Messenger, and TikTok (coming soon). This allows you to manage all your customer conversations from a single platform.",
+    question: "What channels does Miko Bot support?",
+    answer: "Miko Bot supports multiple messaging channels including WhatsApp, WhatsApp Business, Instagram, Facebook Messenger, and TikTok (coming soon). This allows you to manage all your customer conversations from a single platform.",
   },
   {
-    question: "How much does Herobot cost?",
-    answer: "Herobot is completely FREE until July 1st, 2025! Take advantage of this opportunity to scale your customer service without any cost.",
+    question: "How much does Miko Bot cost?",
+    answer: "Miko Bot is completely FREE until July 1st, 2025! Take advantage of this opportunity to scale your customer service without any cost.",
   },
   {
-    question: "Can I integrate Herobot with my existing business tools?",
-    answer: "Yes! Herobot seamlessly integrates with various business tools. You can check shipping costs, connect to Google Forms, update spreadsheets, and integrate with third-party APIs. The platform is highly customizable to fit your specific business needs.",
+    question: "Can I integrate Miko Bot with my existing business tools?",
+    answer: "Yes! Miko Bot seamlessly integrates with various business tools. You can check shipping costs, connect to Google Forms, update spreadsheets, and integrate with third-party APIs. The platform is highly customizable to fit your specific business needs.",
   },
   {
-    question: "How does Herobot handle customer inquiries?",
-    answer: "Herobot provides instant responses to common questions 24/7, qualifies leads automatically, and handles routine customer inquiries. This allows your team to focus on more complex and high-value conversations while the bot handles routine tasks.",
+    question: "How does Miko Bot handle customer inquiries?",
+    answer: "Miko Bot provides instant responses to common questions 24/7, qualifies leads automatically, and handles routine customer inquiries. This allows your team to focus on more complex and high-value conversations while the bot handles routine tasks.",
   },
   {
-    question: "Is Herobot suitable for businesses of all sizes?",
-    answer: "Absolutely! Whether you're a small business or a large enterprise, Herobot scales with your needs. You can start small and expand as your business grows. The platform allows you to manage multiple channels and teams from a single dashboard.",
+    question: "Is Miko Bot suitable for businesses of all sizes?",
+    answer: "Absolutely! Whether you're a small business or a large enterprise, Miko Bot scales with your needs. You can start small and expand as your business grows. The platform allows you to manage multiple channels and teams from a single dashboard.",
   },
   {
     question: "How does the onboarding process work?",

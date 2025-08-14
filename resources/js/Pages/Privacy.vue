@@ -5,7 +5,7 @@ import AuthenticationCardLogo from '@/Components/AuthenticationCardLogo.vue';
 </script>
 
 <template>
-    <Head title="Herobot - Privacy Policy" />
+    <Head title="Miko Bot - Privacy Policy" />
 
     <AuthenticationCard>
         <template #logo>
@@ -68,7 +68,7 @@ import AuthenticationCardLogo from '@/Components/AuthenticationCardLogo.vue';
 
                 <section>
                     <h2 class="text-xl font-semibold text-gray-800">6. Contact Us</h2>
-                    <p>If you have any questions about this Privacy Policy, please contact us at privacy@herobot.id</p>
+                    <p>If you have any questions about this Privacy Policy, please contact us at privacy@Miko Bot.id</p>
                 </section>
 
                 <section class="mt-8 text-sm text-gray-500">

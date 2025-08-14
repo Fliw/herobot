@@ -1,18 +1,18 @@
-# Herobot App
+# Miko Bot App
 
-Herobot is your 24/7 customer service assistant that helps you manage multi-channel customer conversations effortlessly. With support for WhatsApp, WhatsApp Business, Instagram, Facebook Messenger, and TikTok (coming soon), Herobot enables businesses of all sizes to provide instant responses and superior customer service at scale.
+Miko Bot is your 24/7 customer service assistant that helps you manage multi-channel customer conversations effortlessly. With support for WhatsApp, WhatsApp Business, Instagram, Facebook Messenger, and TikTok (coming soon), Miko Bot enables businesses of all sizes to provide instant responses and superior customer service at scale.
 
-❤️ **Support this project**: If you find Herobot helpful, consider [sponsoring the project on GitHub](https://github.com/sponsors/dihak)
+❤️ **Support this project**: If you find Miko Bot helpful, consider [sponsoring the project on GitHub](https://github.com/sponsors/dihak)
 
 ![Image](https://github.com/user-attachments/assets/0e5d0d9a-8aea-4501-90e3-d5396f173104)
 
 ## Deployment Options
 
-Herobot is an open-source project that offers flexible deployment options to suit your needs:
+Miko Bot is an open-source project that offers flexible deployment options to suit your needs:
 
-1. **Herobot Cloud (herobot.id)**: Coming soon! Our managed cloud solution at [herobot.id](https://herobot.id) will provide a hassle-free setup with automatic updates and maintenance. Perfect for businesses that want to get started quickly without infrastructure management.
+1. **Miko Bot Cloud (Miko Bot.id)**: Coming soon! Our managed cloud solution at [Miko Bot.id](https://Miko Bot.id) will provide a hassle-free setup with automatic updates and maintenance. Perfect for businesses that want to get started quickly without infrastructure management.
 
-2. **Self-Hosting**: Deploy Herobot on your own infrastructure for complete control and customization. Follow our setup guide below to host it on your servers.
+2. **Self-Hosting**: Deploy Miko Bot on your own infrastructure for complete control and customization. Follow our setup guide below to host it on your servers.
 
 Both options provide the same powerful features, letting you choose the deployment that best fits your requirements and privacy needs.
 
@@ -29,7 +29,7 @@ Both options provide the same powerful features, letting you choose the deployme
 
 For a quick and easy setup without local installation, try these cloud-based options:
 
-<a href="https://studio.firebase.google.com/import?url=https://github.com/herobot-id/herobot">
+<a href="https://studio.firebase.google.com/import?url=https://github.com/Miko Bot-id/Miko Bot">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
@@ -43,17 +43,17 @@ For a quick and easy setup without local installation, try these cloud-based opt
       src="https://cdn.firebasestudio.dev/btn/try_blue_32.svg">
   </picture>
 </a>
-<a href="https://gitpod.io/#https://github.com/herobot-id/herobot">
+<a href="https://gitpod.io/#https://github.com/Miko Bot-id/Miko Bot">
   <img src="https://gitpod.io/button/open-in-gitpod.svg" alt="Open in Gitpod" height="32">
 </a>
 
 ### Local Development Setup
 
-To set up the Herobot App locally, follow these steps:
+To set up the Miko Bot App locally, follow these steps:
 
 1. **Clone the Repository**:
     ```sh
-    git clone git@github.com:herobot-id/herobot.git
+    git clone git@github.com:Miko Bot-id/Miko Bot.git
     ```
 
 2. **Set Up Environment Variables**:
@@ -105,7 +105,7 @@ To set up the Herobot App locally, follow these steps:
    
    This will automatically stop all services including the Laravel application, Vite development server, Reverb WebSocket server, and WhatsApp server.
 
-By following these steps, you will have the Herobot App up and running on your local machine, ready for development and testing.
+By following these steps, you will have the Miko Bot App up and running on your local machine, ready for development and testing.
 
 ## Contributing
 
@@ -118,4 +118,4 @@ Please read our [Contributing Guide](CONTRIBUTING.md) for detailed information o
 - Pull request process
 - Channel integration guidelines
 
-For bug reports and feature requests, please [open an issue](https://github.com/herobot-id/herobot/issues) on GitHub.
+For bug reports and feature requests, please [open an issue](https://github.com/Miko Bot-id/Miko Bot/issues) on GitHub.

@@ -20,7 +20,7 @@
                 <nav class="flex h-9 items-center justify-between" aria-label="Global">
                     <div class="flex lg:min-w-0 lg:flex-1" aria-label="Global">
                         <a href="#" class="-m-1.5 p-1.5">
-                            <span class="sr-only">Herobot</span>
+                            <span class="sr-only">Miko Bot</span>
                             <ApplicationLogo class="h-8"/>
                         </a>
                     </div>
@@ -45,7 +45,7 @@
                         <div class="flex h-9 items-center justify-between">
                             <div class="flex">
                                 <a href="#" class="-m-1.5 p-1.5">
-                                    <span class="sr-only">Herobot</span>
+                                    <span class="sr-only">Miko Bot</span>
                                     <ApplicationLogo class="h-8"/>
                                 </a>
                             </div>

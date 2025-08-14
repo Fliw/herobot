@@ -14,7 +14,7 @@ defineProps({
 </script>
 
 <template>
-    <Head title="Herobot - Your 24/7 Customer Service Assistant | Multi-Channel Support" />
+    <Head title="Miko Bot - Your 24/7 Customer Service Assistant | Multi-Channel Support" />
 
     <HeroSection />
 

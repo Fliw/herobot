@@ -25,7 +25,7 @@ const submit = () => {
 </script>
 
 <template>
-    <Head title="Herobot - Early Access" />
+    <Head title="Miko Bot - Early Access" />
 
     <AuthenticationCard>
         <template #logo>

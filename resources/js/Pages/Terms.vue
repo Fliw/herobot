@@ -5,7 +5,7 @@ import AuthenticationCardLogo from '@/Components/AuthenticationCardLogo.vue';
 </script>
 
 <template>
-    <Head title="Herobot - Terms of Service" />
+    <Head title="Miko Bot - Terms of Service" />
 
     <AuthenticationCard>
         <template #logo>
@@ -18,12 +18,12 @@ import AuthenticationCardLogo from '@/Components/AuthenticationCardLogo.vue';
             <div class="space-y-6 text-gray-600">
                 <section>
                     <h2 class="text-xl font-semibold text-gray-800">1. Acceptance of Terms</h2>
-                    <p>By accessing and using Herobot's services, you agree to be bound by these Terms of Service. If you do not agree to these terms, please do not use our services.</p>
+                    <p>By accessing and using Miko Bot's services, you agree to be bound by these Terms of Service. If you do not agree to these terms, please do not use our services.</p>
                 </section>
 
                 <section>
                     <h2 class="text-xl font-semibold text-gray-800">2. Description of Service</h2>
-                    <p>Herobot provides a multi-channel customer service platform that enables businesses to manage customer conversations across various messaging platforms including WhatsApp, Instagram, Facebook Messenger, and other supported channels.</p>
+                    <p>Miko Bot provides a multi-channel customer service platform that enables businesses to manage customer conversations across various messaging platforms including WhatsApp, Instagram, Facebook Messenger, and other supported channels.</p>
                 </section>
 
                 <section>
@@ -39,7 +39,7 @@ import AuthenticationCardLogo from '@/Components/AuthenticationCardLogo.vue';
 
                 <section>
                     <h2 class="text-xl font-semibold text-gray-800">4. Data Privacy</h2>
-                    <p>Your use of Herobot is also governed by our Privacy Policy. By using Herobot, you agree to the collection and use of information as detailed in our Privacy Policy.</p>
+                    <p>Your use of Miko Bot is also governed by our Privacy Policy. By using Miko Bot, you agree to the collection and use of information as detailed in our Privacy Policy.</p>
                 </section>
 
                 <section>

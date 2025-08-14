@@ -1,9 +1,9 @@
 {
-    "name": "herobot.id/herobot",
+    "name": "Miko Bot.id/Miko Bot",
     "version": "1.0",
     "type": "project",
-    "description": "The Herobot Enterprise Application",
-    "keywords": ["herobot"],
+    "description": "The Miko Bot Enterprise Application",
+    "keywords": ["Miko Bot"],
     "license": "BSD-3-Clause",
     "require": {
         "php": "^8.4",

@@ -31,7 +31,7 @@ const submit = () => {
 
 <template>
 
-    <Head title="Herobot - Log in" />
+    <Head title="Miko Bot - Log in" />
 
     <AuthenticationCard>
         <template #logo>
@@ -42,7 +42,7 @@ const submit = () => {
             {{ status }}
         </div>
 
-        <h1 class="sr-only">Log in to your Herobot account</h1>
+        <h1 class="sr-only">Log in to your Miko Bot account</h1>
         <form @submit.prevent="submit" class="w-full max-w-sm">
             <div class="mb-6">
                 <InputLabel for="email" value="Email" />

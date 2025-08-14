@@ -1,6 +1,6 @@
-# Contributing to Herobot Application
+# Contributing to Miko Bot Application
 
-Thank you for your interest in contributing to the Herobot Application! This guide will help you get started with development and ensure consistency across the codebase.
+Thank you for your interest in contributing to the Miko Bot Application! This guide will help you get started with development and ensure consistency across the codebase.
 
 ## 🚀 Quick Start
 
@@ -16,8 +16,8 @@ Thank you for your interest in contributing to the Herobot Application! This gui
 
 1. **Clone the Repository**
    ```bash
-   git clone git@github.com:herobot-id/herobot.git
-   cd herobot
+   git clone git@github.com:Miko Bot-id/Miko Bot.git
+   cd Miko Bot
    ```
 
 2. **Set Up Environment Variables**
@@ -79,7 +79,7 @@ php artisan whatsapp:start  # Terminal 4: WhatsApp server
 
 ### Project Structure
 ```
-herobot/
+Miko Bot/
 ├── app/                    # Laravel application code
 ├── resources/js/           # Vue.js frontend
 │   ├── Pages/             # Inertia.js page components
@@ -314,4 +314,4 @@ This project is licensed under the BSD 3-Clause License. By contributing, you ag
 
 ---
 
-Thank you for contributing to the Herobot Application! 🎉 
+Thank you for contributing to the Miko Bot Application! 🎉 
